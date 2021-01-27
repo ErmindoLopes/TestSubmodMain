@@ -1,0 +1,6 @@
+[submodule "TestSubmodM1"]
+	path = TestSubmodM1
+	url = https://github.com/ErmindoLopes/TestSubmodM1.git
+[submodule "TestSubmodM2"]
+	path = TestSubmodM2
+	url = https://github.com/ErmindoLopes/TestSubmodM2.git
